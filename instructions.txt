@@ -1,0 +1,17 @@
+***simu5g-src folder contains the complete src folder of Simu5G.
+You can either replace the whole folder with the 'src' folder of your installed Simu5G
+or only the following files, which has been changed in this project.
+
+src\stack\handoverManager\LteHandoverManager.h
+src\stack\handoverManager\LteHandoverManager.cc
+src\stack\handoverManager\LteHandoverManager.ned
+
+src\apps\burst\BurstReceiver.h
+src\apps\burst\BurstReceiver.cc
+src\apps\burst\BurstReceiver.ned
+
+src\apps\burst\BurstSender.h
+src\apps\burst\BurstSender.cc
+src\apps\burst\BurstSender.ned
+
+***ultras-src folder contains the complete src folder of ULTRAS. You can replace the whole folder with the 'src' folder of your installed ULTRAS framework
