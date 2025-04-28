@@ -31,6 +31,8 @@ The network uses **X2-based handovers** for mobility between gNBs.
 ## Deployment Model
 - **Standalone 5G Deployment (SA)**: Pure 5G setup without 4G fallback.
 
+![5G network model](./5G-network-model.png)
+
 ## Use Cases
 Simulated use cases include:
 - **Coordinates** (sent at different intervals)
